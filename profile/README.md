@@ -34,5 +34,10 @@ You can find the [guidelines here](https://docs.github.com/get-started/exploring
 ### Code Of Conduct
 We are committed to keeping a welcoming, inclusive, and respectful community for everyone. To help us achieve this, we kindly ask that you adhere to our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
+## Contributors
+We would like to thank the following contributors for their valuable work and contributions, even though they are not maintainers.
+
+<a href="https://github.com/David-Ax"><img width="48" height="48" alt="Valuable Contributor David Ax Profile Picture" src="https://avatars.githubusercontent.com/u/139687482" /></a>
+
 ## Maintainers
 <a href="https://github.com/simonkovtyk"><img width="48" height="48" alt="Maintainer Simon Kovtyk Profile Picture" src="https://avatars.githubusercontent.com/u/118692651" /></a>
