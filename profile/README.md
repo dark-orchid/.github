@@ -32,7 +32,7 @@ GitHub offers a solid guideline for contributing to open source projects through
 You can find the [guidelines here](https://docs.github.com/get-started/exploring-projects-on-github/contributing-to-a-project).
 
 ### Code Of Conduct
-We are committed to keeping a welcoming, inclusive, and respectful community for everyone. To help us achieve this, we kindly ask that you adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md).
+We are committed to keeping a welcoming, inclusive, and respectful community for everyone. To help us achieve this, we kindly ask that you adhere to our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Maintainers
 <a href="https://github.com/simonkovtyk"><img width="48" height="48" alt="Maintainer Simon Kovtyk Profile Picture" src="https://avatars.githubusercontent.com/u/118692651" /></a>
